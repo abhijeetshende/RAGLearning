@@ -2,3 +2,4 @@
 venv/
 faiss_stores/
 __pycache__/
+*.pdf
